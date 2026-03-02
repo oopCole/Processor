@@ -1,5 +1,5 @@
 # Processor
-## Team Members: Mike Jones, Cole Bennet, Michael Campbell
+## Team Members: Mike Jones, Cole Bennett, Michael Campbell
 ## Dr.Fareena Saqib
 ## ECGR 3183-091
 ## Submitted on: 12/6/2024
